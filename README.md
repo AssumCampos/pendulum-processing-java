@@ -10,12 +10,6 @@ This is created in Processing in Java.
 You need to install processing (https://processing.org/) for running.
 
 
-### Pre-requisitos 📋
-
-You have to install the free application Blender 2.8.
-https://www.blender.org/
-
-
 ## Autores ✒️
 
 This project was created by:
