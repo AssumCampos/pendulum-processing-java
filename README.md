@@ -10,7 +10,7 @@ This is created in Processing in Java.
 You need to install processing (https://processing.org/) for running.
 
 
-## Autores ✒️
+## Authors ✒️
 
 This project was created by:
 
@@ -18,6 +18,6 @@ This project was created by:
 Email: assumcampos@gmail.com
 Portfolio: Coming soon
 
-## Licencia 📄
+## License 📄
 
 License  - Look the [LICENSE.md](LICENSE.txt) for more details
